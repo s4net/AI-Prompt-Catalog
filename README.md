@@ -15,7 +15,3 @@ This repository contains a collection of AI prompts designed for various roles a
 ## Contribution
 
 Feel free to contribute by adding new prompts or improving existing ones via pull requests.
-
----
-
-Maintained with ❤️ for AI enthusiasts.
